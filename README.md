@@ -10,7 +10,7 @@
 <div>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<div align='center'>
+<div>
 <a href="https://twitter.com/suronjoyroy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="soikatsaha07" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/suronjoyroy/" target="blank"><img align="center" src="./icons/LinkedIn.svg" alt="soikatsaha07" height="30" width="40" /></a>
 </div>
