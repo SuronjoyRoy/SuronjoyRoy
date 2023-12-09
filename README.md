@@ -3,7 +3,9 @@
 
 ## Current Stats
 
+<div align='center'>
 <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=SuronjoyRoy&theme=merko" alt="GitHub Streak" /></a>
+</div>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
